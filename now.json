@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "serverless-zeit-example",
+  "builds": [{ "src": "date.js", "use": "@now/node" }]
+}
